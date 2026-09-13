@@ -7,7 +7,7 @@ I mainly work with Python, R and Linux.
 
 ### Projects
 
-[selscape](https://github.com/xin-huang/selscape) - my current main research project, co-developing with my supervisor a software tool to study genomic landscapes of natural selection.
+[selscape](https://github.com/xin-huang/selscape) - my current main research project: a software tool I'm co-developing with my supervisor to study genomic landscapes of natural selection
 
 [yeast-stress-rnaseq](https://github.com/nomis-c/yeast-stress-rnaseq) - a differential expression analysis pipeline to analyze yeast stress response to heat.
 
