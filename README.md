@@ -12,6 +12,10 @@ I mainly work with Python, R and Linux.
 [yeast-stress-rnaseq](https://github.com/nomis-c/yeast-stress-rnaseq) - a differential expression analysis pipeline to analyze yeast stress response to heat.
 
 
+### Hackathons
+
+[gencite](https://github.com/nomis-c/gencite) - 1st place at the Telos AI Hackathon HACK_002: Signal From Tomorrow. An AI-assisted tool that generates concise, source-linked gene summaries and helps check the evidence behind each claim.
+ 
 <!--
 **nomis-c/nomis-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
